@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Final</string>
+    <string name="texto">Texto</string>
+    <string name="recuperar_dados">RECUPERAR DADOS</string>
+    <string name="hint">hint</string>
+</resources>
